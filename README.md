@@ -9,4 +9,5 @@ sudo apt-get install clisp
 ```
 
 ## Projects
-Chapter 2 [guess-my-number](./guess-my-number)
+Chapter 2  [guess-my-number](./guess-my-number)
+Chapter 5+ [wizard-adventure-game](./wizard-adventure-game)
