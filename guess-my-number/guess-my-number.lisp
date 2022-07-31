@@ -1,5 +1,12 @@
 #!/bin/clisp -repl
 
+;; guess-my-number
+;; Thomas vanBommel
+
+;; Created: 2022-07-03
+;; Modified:
+;;   2022-07-30 - Added this header information
+
 (defparameter *small* 1)
 (defparameter *big* 100)
 

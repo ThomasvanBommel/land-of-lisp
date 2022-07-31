@@ -1,7 +1,7 @@
 # guess-my-number game
 A game where the computer attempts to guess the number you choose from 1 and 100.
 
-## Example:
+## Example Output:
 ```
 Welcome to guess-my-number
 1. Pick a number from 1-100
